@@ -1,12 +1,3 @@
-<!-- ============================================================
-  COMO USAR
-  1. Crie um repositório PÚBLICO com o MESMO nome do seu usuário
-     (ex.: usuario/usuario) e marque "Add a README".
-  2. Substitua SEU_USUARIO e SEU NOME em todo o arquivo.
-  3. Envie este README.md e a pasta assets/ para o repositório.
-  4. Adicione suas imagens em assets/ (veja a seção "IMAGENS" no fim).
-============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D00,100:FF8A00&height=230&section=header&text=ENRICO%20BICCA&fontSize=62&fontColor=0D1117&fontAlignY=38&desc=Blue%20Team%20%E2%80%A2%20SOC%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="banner">
@@ -22,7 +13,7 @@
 <table align="center">
 <tr>
 <td align="center" width="280">
-  <!-- IMAGEM 1: pixel art / gif de uma hacker de cabelo ruivo com laptop -->
+  
   <img src="assets/hacker-girl.gif" width="240" alt="hacker de cabelo ruivo digitando em um laptop">
 </td>
 <td>
