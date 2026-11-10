@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D00,100:FF8A00&height=230&section=header&text=ENRICO%20BICCA&fontSize=62&fontColor=0D1117&fontAlignY=38&desc=Blue%20Team%20%E2%80%A2%20SOC%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="banner">
 
-<a href="https://github.com/Enrico_Bicca">
+<a href="https://github.com/enricoweissmann">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=FF5A1F&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+futuro+analista+SOC;Detectar.+Investigar.+Responder.;Logs+n%C3%A3o+mentem.;Estudando+blue+team+todos+os+dias+%F0%9F%94%A5" alt="texto animado">
 </a>
 
@@ -93,12 +93,12 @@ status    : [■■■■■■□□□□] em evolução constante
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF5A1F&icon_color=FF8A00&text_color=F5F5F5&border_color=FF2D00" alt="estatísticas do GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF5A1F&text_color=F5F5F5&border_color=FF2D00" alt="linguagens mais usadas">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=enricoweissmann&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF5A1F&icon_color=FF8A00&text_color=F5F5F5&border_color=FF2D00" alt="estatísticas do GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoweissmann&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF5A1F&text_color=F5F5F5&border_color=FF2D00" alt="linguagens mais usadas">
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&background=0D1117&ring=FF5A1F&fire=FF8A00&currStreakLabel=FF8A00&sideLabels=FF5A1F&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=AAAAAA&stroke=FF2D00&border=FF2D00" alt="sequência de contribuições">
+<img src="https://streak-stats.demolab.com/?user=enricoweissmann&background=0D1117&ring=FF5A1F&fire=FF8A00&currStreakLabel=FF8A00&sideLabels=FF5A1F&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=AAAAAA&stroke=FF2D00&border=FF2D00" alt="sequência de contribuições">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FF8A00&line=FF2D00&point=F5F5F5&area=true&area_color=FF2D00&hide_border=true" alt="gráfico de atividade" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enricoweissmann&bg_color=0D1117&color=FF8A00&line=FF2D00&point=F5F5F5&area=true&area_color=FF2D00&hide_border=true" alt="gráfico de atividade" width="95%">
 
 </div>
 
@@ -106,7 +106,7 @@ status    : [■■■■■■□□□□] em evolução constante
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="troféus">
+<img src="https://github-profile-trophy.vercel.app/?username=enricoweissmann&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="troféus">
 
 </div>
 
