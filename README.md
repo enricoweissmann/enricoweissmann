@@ -13,8 +13,7 @@
 <table align="center">
 <tr>
 <td align="center" width="280">
-  
-  <img src="assets/hacker-girl.gif" width="240" alt="hacker de cabelo ruivo digitando em um laptop">
+</div> <table align="center"> <tr> <td align="center" width="280"> <img src="assets/hacker-girl.svg" width="240" alt="ilustração de uma hacker de cabelo vermelho com óculos na testa e painel de código">
 </td>
 <td>
 
