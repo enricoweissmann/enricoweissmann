@@ -81,8 +81,7 @@ status    : [■■■■■■□□□□] em evolução constante
 
 ## 📂 Projetos em destaque
 
-> Troque pelos seus repositórios conforme for publicando.
-
+- 🍯 **honey-pot** — armadilha feita em ruby para enganar e estudar invasores
 - 🔎 **home-lab-soc** — laboratório com SIEM, endpoints e simulação de ataques
 - 📧 **phishing-analysis** — relatórios de análise de e-mails maliciosos
 - 🐍 **ioc-enricher** — script Python para enriquecer IPs e hashes com APIs de threat intel
@@ -128,13 +127,6 @@ Quem tem logs, tem respostas.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:FF2D00&height=120&section=footer" width="100%" alt="rodapé">
 
 </div>
-
-<!-- ============================================================
-  IMAGENS (coloque na pasta assets/)
-  - hacker-girl.gif : gif ou pixel art de uma hacker ruiva com laptop e
-    óculos/fones. Procure no Pinterest, Giphy, Tenor ou ArtStation.
-    Prefira fan art e dê crédito ao artista no fim do README.
-  - Opcional: adicione mais decorações de tom laranja/vermelho,
     como fumaça, caixas, silhueta de rifle ou ícone de bomba em
     pixel art, sempre sem legenda ou nome da franquia.
   - Dica: se o fundo do gif for branco, remova em remove.bg ou ezgif.com.
