@@ -93,30 +93,21 @@ status    : [■■■■■■□□□□] em evolução constante
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enricoweissmann&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF5A1F&icon_color=FF8A00&text_color=F5F5F5&border_color=FF2D00" alt="estatísticas do GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoweissmann&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF5A1F&text_color=F5F5F5&border_color=FF2D00" alt="linguagens mais usadas">
+
 
 <img src="https://streak-stats.demolab.com/?user=enricoweissmann&background=0D1117&ring=FF5A1F&fire=FF8A00&currStreakLabel=FF8A00&sideLabels=FF5A1F&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=AAAAAA&stroke=FF2D00&border=FF2D00" alt="sequência de contribuições">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enricoweissmann&bg_color=0D1117&color=FF8A00&line=FF2D00&point=F5F5F5&area=true&area_color=FF2D00&hide_border=true" alt="gráfico de atividade" width="95%">
 
 </div>
 
-## 🏅 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=enricoweissmann&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="troféus">
-
-</div>
 
 ## 📡 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF5A1F)](https://linkedin.com/in/SEU_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF8A00)](https://tryhackme.com/p/SEU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5A1F)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF5A1F)](https://www.linkedin.com/in/enrico-weissmann-bicca-6a64582ba/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF8A00)](https://tryhackme.com/p/enricoweissmann)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5A1F)](mailto:enricoweissmann@Gmail.com)
 
 <br>
 
@@ -127,8 +118,3 @@ Quem tem logs, tem respostas.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:FF2D00&height=120&section=footer" width="100%" alt="rodapé">
 
 </div>
-    como fumaça, caixas, silhueta de rifle ou ícone de bomba em
-    pixel art, sempre sem legenda ou nome da franquia.
-  - Dica: se o fundo do gif for branco, remova em remove.bg ou ezgif.com.
-  - Evite escrever nomes de franquias no alt, no nome do arquivo e nos commits.
-============================================================ -->
